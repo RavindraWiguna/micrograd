@@ -1,3 +1,6 @@
 # Micrograd
 
 An Implementation of micrograd I made based on Andrej Karpathy's [Youtube lecture](https://youtu.be/VMj-3S1tku0?si=pyYuqru1SUu3YPfO).
+
+## Notes
+No AI was used to implement this project. All codes and documentations were written by myself as a learning exercise.
